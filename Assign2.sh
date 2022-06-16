@@ -1,5 +1,6 @@
 #hello
-#hello
+#hiii
+#trial
 #!/bin/bash
 echo enter your first name
 read firstName
